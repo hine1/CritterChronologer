@@ -8,3 +8,4 @@ This project demonstrate the features of Spring Data JPA with examples of differ
 
 - Spring Boot with Spring Data JPA
 - H2, MySQL Databases
+- Unit Testing
